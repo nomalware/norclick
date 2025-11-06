@@ -1,1 +1,1 @@
-<body oncontextmenu="return false;">
+document.dispatchEvent(new MouseEvent('contextmenu', {bubbles:true, cancelable:true}));
