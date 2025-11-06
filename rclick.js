@@ -1,5 +1,1 @@
-<script>
-    document.addEventListener('contextmenu', (e) => {
-        e.preventDefault();
-    });
-</script>
+<script src="disable-right-click.js"></script>
