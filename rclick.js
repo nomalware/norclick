@@ -1,1 +1,1 @@
-document.addEventListener('contextmenu', event => event.preventDefault());
+<body oncontextmenu="return false;">
