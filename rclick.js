@@ -1,1 +1,5 @@
-document.addEventListener('contextmenu', event => event.preventDefault());
+<script>
+    document.addEventListener('contextmenu', (e) => {
+        e.preventDefault();
+    });
+</script>
